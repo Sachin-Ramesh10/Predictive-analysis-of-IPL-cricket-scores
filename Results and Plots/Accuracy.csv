@@ -1,0 +1,41 @@
+ID,Team A,Team B,Our Prediction,Actual Result,Prediction,,,,
+1,RCB,SRH,"Winning % of B is 54.22312486985524
+Winning % of A is 45.77687513014476",SRH Won,TRUE,,,,
+2,RPS,MI,"Winning % of A is 53.337904610534714
+Winning % of B is 46.662095389465286",RPS Won,TRUE,,,,
+3,GL,KKR,"Winning % of B is 56.91624349015676
+Winning % of A is 43.08375650984324",KKR Won,TRUE,,,,
+4,KXIP,RPS,"Winning % of A is 50.69021492338825
+Winning % of B is 49.30978507661175",KXIP Won,TRUE,,,Correct,13
+5,RCB,DD,"Winning % of B is 51.95853875421535
+Winning % of A is 48.04146124578465",RCB won,TRUE,,,Wrong,7
+6,SRH,GL,"Winning % of A is 57.15813578878991
+Winning % of B is 42.84186421121009",SRH won,TRUE,,,,
+7,MI,KKR,"Winning % of B is 56.82986293374248
+Winning % of A is 43.17013706625752",MI Won,FALSE,,,,
+8,KXIP,RCB,"Winning % of A is 52.47060527293552
+Winning % of B is 47.52939472706448",KXIP Won,TRUE,,,,
+9,RPS,DD,"Winning % of B is 52.55444395301666
+Winning % of A is 47.44555604698334",DD Won,TRUE,,,,
+10,MI,SRH,"Winning % of B is 55.837550315347585
+Winning % of A is 44.162449684652415",MI Won,FALSE,,,,
+11,KKR,KXIP,"Winning % of B is 50.06799360717187
+Winning % of A is 49.93200639282813",KKR Won,FALSE,,,,
+12,RCB,MI,"Winning % of A is 59.05071300089193
+Winning % of B is 40.94928699910807",MI Won,FALSE,,,,
+13,GL,RPS,"Winning % of A is 51.313702659938976
+Winning % of B is 48.686297340061024",GL Won,TRUE,,,,
+14,KKR,SRH,"Winning % of B is 51.52144265483996
+Winning % of A is 48.47855734516004",KKR Won,FALSE,,,,
+15,DD,KXIP,"Winning % of A is 50.74597730697956
+Winning % of B is 49.25402269302044",DD Won,TRUE,,,,
+16,MI,GL,"Winning % of B is 53.1412453196505
+Winning % of A is 46.8587546803495",MI Won,FALSE,,,,
+17,RPS,RCB,"Winning % of B is 55.209038736701224
+Winning % of A is 44.790961263298776",RPS Won,FALSE,,,,
+18,KKR,DD,"Winning % of A is 52.51818860202212
+Winning % of B is 47.48181139797788",KKR Won,TRUE,,,,
+19,SRH,KXIP,"Winning % of A is 50.3317370559076
+Winning % of B is 49.6682629440924",SRH Won,TRUE,,,,
+20,RCB,GL,"Winning % of A is 54.677470820121464
+Winning % of B is 45.322529179878536",RCB won,TRUE,,,,

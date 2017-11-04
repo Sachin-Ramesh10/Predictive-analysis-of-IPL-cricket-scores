@@ -1,0 +1,4 @@
+The datasets are segregated yearwise.
+There are total of 16 CSV files containing the calculated player values for each "domestic "and "International" games played over past four years.
+
+The interim player values in each of the files will be used to calculate the final player values, which will be used for further analysis.

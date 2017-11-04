@@ -1,0 +1,63 @@
+Accuracy.csv:
+Contains the test result of our model.
+Our prediction is validated against the 20 matches that have been played this season.
+
+
+All_Players_Classified.csv
+204 IPL Players have been grouped into 5 groups 0 - 5
+
+All_Players_classified.png:
+Shows the clustered image of grouped IPL players
+
+Allrounders_classified.csv
+All the alrounders among 204 IPL players have been grouped according to their performance into 5clusters 0-5
+
+Allrounder_classified.png:
+Shows the clustered image of grouped Allrounders
+
+Average_Player_values:
+Shows the average player values of all the players in each franchise
+
+Batsmen.csv:
+contains the player names and their assigned values of all batsmen out of 963 T20 Players
+
+Batsmen_classified.csv:
+Contains all batsmen amoung 204 IPL players grouped into 5 clusters according to their performance values
+
+Batting_pred1.JPG:
+Shows the prediction value and the actual value of runs scored by batsmen in current season, by performing linear regression on old values
+
+Bowlers.csv:
+contains the player names and their assigned values of all Bowlers out of 963 T20 Players
+
+Bowlers_classified.csv:
+Contains all Bowlers amoung 204 IPL players grouped into 5 clusters according to their performance values
+
+Franchise.csv:
+Contains the players and values grouped by teams in current IPL season
+
+
+IPLALLPlayersList.csv:
+Contains all the 204 IPL players and their respective values 
+
+IPLALLRounders.csv:
+Contains all Allrounders list among the 204 IPL players and their respective values 
+
+IPLBatsmen.csv:
+Contains all Batsmen list among the 204 IPL players and their respective values 
+
+IPLBowlers.csv:
+Contains all Bowlers list among the 204 IPL players and their respective values 
+
+PlayerValues:
+Contains consolidated values of all the 963 T20 Players and their assigned values
+
+TotalPlayerValues:
+Shows the Total player values of all the players in each franchise
+
+Wickets_Actual_Score and Wickets_our_Score:
+These images comapres the predicted and actual values of nnumber of wickets taken in this IPL season by 2 bowlers by performing linear regressing on old values
+
+
+
+

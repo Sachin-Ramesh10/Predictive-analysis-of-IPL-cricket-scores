@@ -1,0 +1,44 @@
+WicketsPredict.py:
+
+This program takes the year and number of matches played by a Bowler and number of wickets that he has taken for each of the combination of year and matches as input to the training data for linear regression, and outputs the number of wickets a bowler has taken in current season based on the total number of matches that he has played
+
+
+RunsPredict.py:
+
+This program takes the year and number of matches played by a Batsmen and number of Runs that he has scored for each of the combination of year and matches as input to the training data for linear regression, and outputs the Total Runs a Batsmen has scored in current season based on the total number of matches that he has played
+
+
+We have used Linear regression method of SKLEARN package for above predictions.
+
+PredictMatchResults.py:
+getPrediction(A,B) --> Function
+Input: rosters of two teams for which the outcome has tobe predicted(in the form of lists)
+Output: Calculates the total strength of the team based on roster by refering Player_Values file, and outputs the % of winning that each team has.
+
+PlotValues.py:
+Evaluates the top ten batsmen and Bowlers from current IPL players and for each of the top ten players, year wise performance value is obatained from original dataset. Performance values vs year graph will be plotted at the end.
+
+
+GenerateValues.py:
+
+This program aggregates and averages yearwise values for each of the 963 T20 players.
+Output will be in the form of 3 files:Players_Values, Batsmen, Bowlers
+
+GenerateIPLPlayerFiles:
+This program generates file of All 204 IPL Players with their values according to the current Franchise
+
+GenerateIPLIndividualFiles:
+From previously generated file of players list this programs aims to compare and generate Bastmen,Bowlers and alrounders files from 204 IPL players.
+
+ClusteringKmeans:
+This program clusters the batsmen, bowlers and alrounders from 204 IPL players 
+We are using kmeans cluster.Each category of players are grouped into 5 different classes based on their performance values.The result is placed in result folder.
+
+
+All the CSV files used as input and obtained as out are explained in Dataset or Results folders depending on their usage.
+
+
+
+
+
+
